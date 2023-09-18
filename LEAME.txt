@@ -1,1 +1,4 @@
-L
+LEAME.
+
+
+primer archivo en repositorio incial con el objetivo de aprender GH.
